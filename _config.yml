@@ -2,12 +2,12 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Michael H
+title: Michael H | About
 # description: This will be meta HTML tag content. This can be ignored.
 description: Website for Michael H
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/profile"
+baseurl: "/about"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -58,7 +58,7 @@ skills_title: Donate to HTH Worldwide!
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: My Portfolio
+timeline_title: My Projects
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://github.com/HTHcoin/HTH-Legacy/blob/master/Light_Paper.pdf
@@ -94,7 +94,7 @@ contact_description: Help The Homeless Worldwide<br> 900 Barnegat Blvd N <br> Un
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: MichaelHDesigns/profile
+repository: MichaelHDesigns/about
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
