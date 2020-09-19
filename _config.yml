@@ -43,7 +43,7 @@ show_aboutme1_card: true
 # about_me1_title: The will be displayed as the title in the About Me section
 about_me1_title: Who I Am
 # about_me1_description: This will be displayed under the title.
-about_me1_description: Hello All! MY name is Michael, but I commonly go by Michael H or Devilking6105 in the worldwide web or video game land. I am a proud father of 5 amazing kids and married to a beatuful talented nurse. I am one of the Co-Founders to Help The Homeless Worldwide, which is a cryptocurrency titled Help The Homeless Coin and I am the Director of our Parent Company, Help The Homeless Worldwide A NJ Nonprofit Corporation. Please visit <a href="https://hth.world" style="color:#debf12">HTH World</a><p>!</p>
+about_me1_description: Hello All! MY name is Michael, but I commonly go by Michael H or Devilking6105 in the worldwide web or video game land. I am a proud father of 5 amazing kids and married to a beatuful talented nurse. I am one of the Co-Founders to Help The Homeless Worldwide, which is a cryptocurrency titled Help The Homeless Coin and I am the Director of our Parent Company, Help The Homeless Worldwide A NJ Nonprofit Corporation. Please visit <a href="https://hth.world" style="color:#debf12">HTH World</a> for more information or to Donate Today!
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
