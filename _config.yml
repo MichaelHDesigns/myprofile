@@ -32,18 +32,18 @@ twitter_username: Devilking61051
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: What I Do
+about_me_title: More About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Co-Founder of HTH Coin and Director of our fully registered 501(c)(3), Help The Homeless Worldwide A NJ Nonprofit Corporation. As Co-Founder of HTH Coin, I oversee the development and public relations of HTH Coin. As Director of HTH Worldwide, I oversee operations of HTH Worldwide A NJ Nonprofit Corporation.
+about_me_description:  In the last 2 years I have learned so much about some new things that I never knew I could get into, but I am proud to say that I love to code and I've learned so much by being apart of an amazing community of people. Through my own ambitions, wife nudging me and some other things, I have dived into learning more and more. I hope that you bare with me while I learn to code and it's awesome to meet you! Thanks for stopping by my website 
 # ABOUT ME1 SECTION
 # show_aboutme1_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
 show_aboutme1_card: true
 # about_me1_title: The will be displayed as the title in the About Me section
-about_me1_title: A Message from Michael H
+about_me1_title: Who I Am
 # about_me1_description: This will be displayed under the title.
-about_me1_description: Through my journey with some amazing people, I've come to see that we need to love humanity and move ourselves in a positive forward direction by helping one another to achieve the goal of peace, understanding and love throughout the world. We are all we have, embrace humanity.
+about_me1_description: Hello All! MY name is Michael, but I commonly go by Michael H or Devilking6105 in the worldwide web or video game land. I am a proud father of 5 amazing kids and married to a beatuful talented nurse. I am one of the Co-Founders to Help The Homeless Worldwide, which is a cryptocurrency titled Help The Homeless Coin and I am the Director of our Parent Company, Help The Homeless Worldwide A NJ Nonprofit Corporation. Please visit <a href="https://hth.world">HTH World!</a>
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
